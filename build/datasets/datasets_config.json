@@ -1,3 +1,4 @@
-{"default": 0, "data": [{"name": "combined_relative_rijks_vanda", "directory": "combined_relative_rijks_vanda"},
+{"default": 0, "data": [{"name": "combined_relative_3way", "directory": "combined_relative_3way"},
+                        {"name": "combined_relative_rijks_vanda", "directory": "combined_relative_rijks_vanda"},
                         {"name": "combined_relative_tokyo_vanda", "directory": "combined_relative_tokyo_vanda"},
                         {"name": "combined_relative_tokyo_rijks", "directory": "combined_relative_tokyo_rijks"}]}
