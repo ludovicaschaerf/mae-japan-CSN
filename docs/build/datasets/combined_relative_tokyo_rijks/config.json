@@ -1,0 +1,69 @@
+{
+    "title": "combined_relative_tokyo_rijks",
+    "datasetInfo": "",
+    "embeddings": [
+        {
+            "name": "PCA",
+            "file": "PCA.json"
+        },
+        {
+            "name": "UMAP",
+            "file": "UMAP.json"
+        },
+        {
+            "name": "t-SNE",
+            "file": "TSNE.json"
+        }
+    ],
+    "clusters": {
+        "clusterList": [],
+        "clusterColors": []
+    },
+    "total": 13376,
+    "sliders": [
+        {
+            "id": "anchor_score",
+            "title": "anchor_score",
+            "info": "anchor score",
+            "typeNumber": "int",
+            "color": "#82809f",
+            "min": 0,
+            "max": 76
+        },
+        {
+            "id": "PC1",
+            "title": "PC1",
+            "info": "PCA1",
+            "typeNumber": "int",
+            "color": "#93fc91",
+            "min": -25,
+            "max": 25
+        },
+        {
+            "id": "PC2",
+            "title": "PC2",
+            "info": "PCA2",
+            "typeNumber": "int",
+            "color": "#ed8efc",
+            "min": -25,
+            "max": 25
+        }
+    ],
+    "info": [
+        "dataset_name",
+        "image_url_inferred",
+        "is_anchor"
+    ],
+    "search": [
+        {
+            "columnField": "dataset_name",
+            "type": "selection"
+        }
+    ],
+    "url_prefix": "",
+    "sprite_side": 32,
+    "sprite_dir": "combined_relative_tokyo_rijks",
+    "sprite_number": 14,
+    "sprite_image_size": 64,
+    "sprite_actual_size": 2048
+}
